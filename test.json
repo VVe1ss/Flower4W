@@ -1,0 +1,61 @@
+{
+  "stones": [
+    {
+      "name": "s1",
+      "pricePerFlover": 12,
+      "length": 10,
+      "levelOfFreshness": 0.2,
+      "type": {
+        "name": "das"
+      }
+    },
+    {
+      "name": "s2",
+      "pricePerFlover": 12,
+      "length": 10,
+      "levelOfFreshness": 0.2,
+      "type": {
+        "name": "vrc"
+      }
+    },
+    {
+      "name": "s3",
+      "pricePerFlover": 12,
+      "length": 10,
+      "levelOfFreshness": 0.2,
+      "type": {
+        "name": "hba"
+      }
+    }
+  ],
+  "bouquet": {
+    "flovers": [
+      {
+        "name": "s2",
+        "pricePerFlover": 12,
+        "length": 10,
+        "levelOfFreshness": 0.2,
+        "type": {
+          "name": "vrc"
+        }
+      },
+      {
+        "name": "s1",
+        "pricePerFlover": 12,
+        "length": 10,
+        "levelOfFreshness": 0.2,
+        "type": {
+          "name": "das"
+        }
+      }
+    ]
+  },
+  "types": [
+    {
+      "name": "das"
+    },
+    {
+      "name": "das"
+    }
+  ]
+}

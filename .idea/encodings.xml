@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/lw3/game/Game.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Bouquet/Bouquet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Bouquet/BouquetBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Flower/Flover.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Flower/FloverType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Program.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/json/JsonConverter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/json/JsonConverterData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/json/JsonConverterDataBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.json" charset="UTF-8" />
+  </component>
+</project>
